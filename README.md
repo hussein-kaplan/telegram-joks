@@ -21,17 +21,15 @@ This is a Telegram bot written in Python that fetches jokes from the Jokeapi.io 
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/telegram-joke-bot.git
+git clone https://github.com/hussein-kaplan/telegram-joks.git
 
-markdown
-Copy code
+
 
 2. Install the required libraries:
 
 pip install telebot requests
 
-csharp
-Copy code
+
 
 ### Usage
 
@@ -44,8 +42,7 @@ TOKEN = 'YOUR_BOT_TOKEN'
 channel_id = '@YOUR_CHANNEL_USERNAME'
 Run the bot script:
 
-Copy code
-python bot.py
+
 The bot will start fetching jokes and publishing them in the specified Telegram channel every hour.
 
 Contributing
